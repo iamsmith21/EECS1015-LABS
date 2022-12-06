@@ -1,20 +1,9 @@
 ########################################
 # EECS1015- Fall 2022
 # Lab 1
-#
-# Your name: Smith Patel
-# Your section: B
-# Your student ID: 219347301
-# Your email contact: smith04@my.yorku.ca
 #######################################
 
 # Please fill out your info for each lab 
-print("---- Lab 1 ----")
-print("Name: Smith Patel")
-print("Section B")
-print("Student id: 219347301 ")
-print("Email: smith04@my.yorku.ca")
-
 # Task 1
 print('\n---- Task 1: Currency converter ----')
 a = float(input("Amount in Canadian Dollars:"))
