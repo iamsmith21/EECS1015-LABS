@@ -6,14 +6,6 @@
 # Lab 7 starter code
 ##################################
 
-
-def print_student_info():
-    print("Name: Smith Patel")
-    print("Student ID: 219347301")
-    print("Section B")
-    print("Email: smith04@my.yorku.ca")
-
-
 def task0():
     print_student_info()
 
