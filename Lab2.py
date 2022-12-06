@@ -1,15 +1,6 @@
 #########
 # EECS1015 Fall 2022
 # Lab 2
-# Name: Smith Patel
-# Student id: 219347301
-#########
-
-print("---- Lab 2 ----")
-print("Name: Smith Patel")
-print("Section B")
-print("Student id: 219347301")
-print("Email: smith04@my.yorku.ca ")
 
 # Task 1
 print("\n---- Task 1: Three year investment return ----")
