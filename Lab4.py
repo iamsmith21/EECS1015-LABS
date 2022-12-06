@@ -2,20 +2,11 @@
 # EECS1015 York Univresity
 # Lab 4 - Starter Code
 # Name: Smith Patel
-# Section B
-# Student id: 219347301
-# Email:smith04@my.yorku.ca
 ################################
 
 import random
 import time
 global num_of_jumps
-
-def print_student_info():
-    print("Name: Smith Patel")
-    print("Section B")
-    print("Student id: 219347301")
-    print("Email: smith04@my.yorku.ca")
 
 def get_int_input(prompt, min_value, max_value):
         while (True):
@@ -144,7 +135,6 @@ def task4():
         time.sleep(0.3)
 
 def main():
-    print_student_info()
 
     print("\n---- Task 1: The Owl ----")
     task1()
