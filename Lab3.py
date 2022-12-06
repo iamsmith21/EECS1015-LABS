@@ -1,16 +1,6 @@
 #########
 # EECS1015 Fall 2022
 # Lab 3
-# Name: Smith Patel
-# Sudent id: 219347301
-#########
-
-print("---- Lab 3 ----")
-print("Name: Smith Patel ")
-print("Section B")
-print("Student id: 219347301")
-print("Email: smith04@my.yorku.ca ")
-
 
 # Task 1
 print("\n---- Task 1: Simple order ----")
