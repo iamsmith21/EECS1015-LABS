@@ -9,14 +9,6 @@
 import random
 from random import randint
 
-
-def print_student_info():
-    print("Name: Smith Patel")
-    print("Student ID: 219347301")
-    print("Section B")
-    print("Email: smith04@my.yorku.ca")
-
-
 # class for task 2
 class virus:
     def __init__(self, DNAinput=""):
