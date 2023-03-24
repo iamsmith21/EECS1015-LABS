@@ -82,7 +82,6 @@ print("Cylinder Surface Area: ", SA)
 print("Cylinder Volume:", Vol)
 
 
-
 ## Adding the final "input" causes python to wait on the user to press enter
 ## before exiting the program.
 print("\n---- FINISHED ----")
